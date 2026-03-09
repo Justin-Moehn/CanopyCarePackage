@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/justi/Downloads/Canopy Carepackage/CanopyCarePackage/HeclicopterDelivery/Content/InputActions/IMC_Helicopter.uasset",
+				"C:/Users/justi/Downloads/Canopy Carepackage/CanopyCarePackage/HeclicopterDelivery/Content/Blueprints/BP_PlayerHelicopter.uasset",
+				"C:/Users/justi/Downloads/Canopy Carepackage/CanopyCarePackage/HeclicopterDelivery/Content/Blueprints/BP_PlayerCamera.uasset",
 				"D:/LevelDesign/HeclicopterDelivery/Content/TestMap_HLOD0_Instancing.uasset",
 				"D:/LevelDesign/HeclicopterDelivery/Content/__ExternalActors__/TestMap/E/TW/7ZXSPLVEY4VUDZVF8ISN4D.uasset",
 				"D:/LevelDesign/HeclicopterDelivery/Content/__ExternalObjects__/TestMap/4/JZ/GVAWCKA0T5BPA8X4YGWSKR.uasset",
